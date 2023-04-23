@@ -1,0 +1,5 @@
+1;Juan Perez;Las Cotorras;12;123;45678;23;04;23;3;10000
+2;Pedro Solis;Las Palmeritas;45;123;3456;27;05;23;5;4556
+1;Maria;Las Cotorras;12;123;45678;23;04;23;3;0
+3;jose;Las Cotorras;10;123;45678;23;04;23;3:67890
+4;Trinidad Castro;Cotorras;12;1234;45678;23;04;23;3;65432
